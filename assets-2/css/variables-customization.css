@@ -1,0 +1,139 @@
+/* FIXED */
+:root {
+  /* button */
+  --buttonHeight: 42px;
+  --buttonHeightSM: 38px;
+  --buttonRadius: 6px;
+
+  /* input */
+  --inputRadius: 6px;
+  --inputPadding: 0px 20px;
+  --selectPadding: 20px;
+  --selectPaddingLG: 35px;
+  --selectOptionPadding: 10px 20px;
+  --inputFontSize: 14px;
+  --inputFontSizeSM: 14px;
+  --inputHeight: 52px;
+  --inputMinHeight: 52px;
+}
+
+:root {
+  /* 1: colors */
+
+  --textColor: #000;
+  --textActiveColor: #000;
+  --textSecondaryColor: #332520;
+  --preloaderLineColor: #fff;
+
+  --cursorColor: #fff;
+  --cursorHoverColor: #fff;
+
+  --navbarMenuColor: #fff;
+  --navbarMenuActiveColor: #fff;
+  --navbarLinksColor: #fff;
+  --navbarLinksHoverColor: #fff;
+  --navbarSocialLinksColor: #fff;
+
+  --sliderBulletsColor: #fff;
+
+  --brandColor: #fff;
+  --brandActiveColor: #fff;
+
+  --iconsColor: #fff;
+
+  --inputColor: #000;
+  --selectColor: #fff;
+
+  --inputBorder: 1px solid #332520;
+  --inputBorderColor: #332520;
+  --inputBorderHoverColor: #332520;
+
+  --planTitleColor: #fff;
+  --planHrColor: #fff;
+  --planCarbsBoxColor: #ff7065;
+  --planProteinsBoxColor: #e8bdfff2;
+  --planFatsBoxColor: #ffcacd;
+
+  --headingHrColor: #fff;
+
+  --bundleBoxColor: #fff;
+  --bundleBorderColor: #fff;
+  --bundleMotionColor: #fff;
+  --bundlePickColor: #fff;
+  --bundlePickActiveColor: #fff;
+  --bundlePickShadowColor: #fff;
+  --bundlePickShadowActiveColor: #fff;
+
+  --planRangeBorderColor: #fff;
+  --planRangeBorderActiveColor: #fff;
+
+  --planDaysBorderColor: #fff;
+  --planDaysBorderActiveColor: #fff;
+
+  --preferenceLineColor: #fff;
+  --preferenceInfoColor: #fff;
+
+  --pickPreferenceTextColor: #fff;
+
+  --summaryBundleColor: #fff;
+  --summaryBorderColor: #fff;
+  --summarySpecialBorderColor: #fff;
+
+  --addressMotionColor: #fff;
+  --addressActiveMotionColor: #fff;
+
+  --invoiceMotionColor: #fff;
+  --invoiceTableBorderColor: #303030;
+
+  /* ---------------------------------------------- */
+  /* ---------------------------------------------- */
+  /* ---------------------------------------------- */
+  /* ---------------------------------------------- */
+
+  /* 2: backgrounds */
+  --bodyBackgroundColor: #fff;
+
+  --bodyBackgroundFirstColor: #131313;
+  --bodyBackgroundSecondColor: #111;
+  --bodyBackgroundThirdColor: #131313;
+  --bodyBackgroundFourthColor: #7eaaa1;
+
+  --sectionBackgroundColor: #fff;
+  --sectionMidBackgroundColor: #101615;
+  --sectionMidAlternativeBackgroundColor: #7eaaa1;
+  --sectionMidBackBackgroundColor: #101615;
+  --sectionBottomBackgroundColor: #101615;
+
+  --navbarBackgroundColor: #3325204d;
+  --inputIconBackgroundColor: #2c2c2c;
+  --planMacroBackgroundColor: #191919;
+  --inputBackgroundColor: #fff;
+
+  --planDaysDiscountBackgroundColor: var(--bs-danger);
+
+  --preferenceBackgroundColor: #fff;
+  --preferenceBagBackgroundColor: #fff;
+
+  --pickPreferenceBackgroundColor: #fff;
+  --pickPreferenceHoverBackgroundColor: #000;
+
+  --summaryBackgroundColor: #fff;
+
+  --buttonBackgroundColor: #acd3c0;
+  --buttonHoverBackgroundColor: #7eaaa1;
+
+  --modalBackgroundColor: #fff;
+
+  --addressBackgroundColor: #fff;
+
+  --invoiceBackgroundColor: #191919;
+  --invoiceMidSectionBackgroundColor: #202020;
+
+  /* ---------------------------------------------- */
+  /* ---------------------------------------------- */
+  /* ---------------------------------------------- */
+  /* ---------------------------------------------- */
+
+  /* 3: radius */
+  --planCardButtonRadius: 6px;
+}
