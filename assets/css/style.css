@@ -3731,12 +3731,12 @@ span.swiper-pagination-bullet.swiper-pagination-bullet-active {
 }
 
 .nbv2_header_right .header-toggle span {
-  top: 17px;
-  right: 0;
+top: 2px;
+  right: -8px;
 }
 
 .nbv2_header_right .offcanvas_border_one {
-  margin-bottom: 9px;
+  margin-bottom: 5px;
 }
 
 .nbv2_call_action_btn .nb-ncl {
@@ -5122,12 +5122,12 @@ span.swiper-pagination-bullet.swiper-pagination-bullet-active {
 }
 
 .nbv2_header_right .header-toggle span {
-  top: 17px;
-  right: 0;
+top: 2px;
+  right: -8px;
 }
 
 .nbv2_header_right .offcanvas_border_one {
-  margin-bottom: 9px;
+  margin-bottom: 5px;
 }
 
 .nbv2_call_action_btn .nb-ncl {
